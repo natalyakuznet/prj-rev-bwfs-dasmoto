@@ -1,0 +1,101 @@
+body {
+  text-align: center;
+  font-family: "Helvetica", sans-serif;
+  }
+
+header {
+  background-image: url("../resources/images/pattern.jpeg");
+  background-size: cover;
+  width: 100%;
+  height: 275px;
+  }
+
+nav {
+  padding-top: 20px;
+}
+
+a {
+ display: inline;
+ font-size: 36px;
+ font-weight: normal;
+ color: #242E33;/* #6D8D9C; #A1615D;*/
+ opacity: 0.7;
+ text-decoration: none;
+ padding: 40px;
+}
+
+h1 {
+  font-size: 100px;
+  color: #FF9A93; /* Khaki; */
+}
+
+main {
+  margin-top: 150px;
+}
+
+h2 {
+  font-size: 36px;
+  font-weight: bold;
+  color: #ffffff;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+h3 {
+  font-size: 1.50em;
+  font-weight: bold;
+}
+
+.brushes h2 {
+  background-color: #89C7B0;
+  opacity: 0.75;
+}
+
+#hacksaw {
+  color: #89C7B0;
+}
+
+.frames h2 {
+  background-color: #E8CE7A; /*#FF9A93; lightcoral;*/
+  opacity: 0.7;
+}
+
+#art {
+  color: #E8CE7A;
+}
+
+.paint h2{
+  background-color: #BEE1F7;
+}
+
+#finnish {
+  color: #ACCDE0;
+}
+
+p {
+  text-align: left;
+  font-size: 1.2em;
+  color: black;
+  opacity: 0.7;
+  padding: 25px 25px;
+ }
+
+strong {
+  opacity: 0.9;
+}
+
+/* h2, p {
+  margin-left: 100px;
+  margin-right: 100px;
+} */
+
+footer {
+  /* background-color:  #FFC6C4; */
+  opacity: 0.4;
+}
+
+h6 {
+  font-size: 16px;
+  padding-top: 30px;
+  padding-bottom: 5px;
+}
